@@ -1,0 +1,11 @@
+README.md
+setup.py
+pyBWMD/__init__.py
+pyBWMD/bwmd.py
+pyBWMD/suffixArray.pyx
+pyBWMD.egg-info/PKG-INFO
+pyBWMD.egg-info/SOURCES.txt
+pyBWMD.egg-info/dependency_links.txt
+pyBWMD.egg-info/not-zip-safe
+pyBWMD.egg-info/requires.txt
+pyBWMD.egg-info/top_level.txt
